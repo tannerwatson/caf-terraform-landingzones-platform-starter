@@ -6,11 +6,11 @@ dynamic_keyvault_secrets = {
   level3 = {
     lower_stg = {
       secret_name = "lower-storage-account-name"
-      value       = ""
+      value       = "hchbstl2uea"
     }
     lower_rg = {
       secret_name = "lower-resource-group-name"
-      value       = ""
+      value       = "hchb-rg-caf-level2-rcn"
     }
     subscription_id = {
       output_key    = "client_config"
